@@ -656,7 +656,7 @@ client processes as specified in the Netplan YAML.
     > With NetworkManager, setting this to `false` also ignores automatically
     > obtained DNS search domains. For `dhcp6-overrides`, this includes DNS
     > servers and search domains received through IPv6 Router Advertisements,
-    > as NetworkManager does not control these separately from DHCPv6 DNS.
+    > as NetworkManager does not control these separately from DHCP DNS.
 
   - **`use-ntp`** (boolean)
 
